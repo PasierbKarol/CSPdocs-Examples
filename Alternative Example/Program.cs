@@ -25,9 +25,9 @@ namespace Alternative_Example
             //IamCSProcess[] altingOutputExample = { num, num2, altingOutput };
 
             //Alting Gadget example ============================
-            AltingBarrier altingBarrier = new AltingBarrier();
+            //AltingBarrier altingBarrier = new AltingBarrier();
 
-            new CSPParallel(altingOutputExample).run();
+            //new CSPParallel(altingOutputExample).run();
 
             Console.ReadKey();
 
