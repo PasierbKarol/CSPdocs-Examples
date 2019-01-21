@@ -6,6 +6,7 @@
 //                2005-2018 Kevin Chalmers                          //
 //                                                                  //
 //  You may use this work under the terms of either                 //
+//  You may use this work under the terms of either                 //
 //  1. The Apache License, Version 2.0                              //
 //  2. or (at your option), the GNU Lesser General Public License,  //
 //       version 2.1 or greater.                                    //
@@ -18,47 +19,56 @@
 //////////////////////////////////////////////////////////////////////
 
 using System;
-using System.Threading;
 using CSPlang;
 
-namespace Alternative_Example
+namespace Alternative_FairPlex
 {
+    /**
+     * @author P.H. Welch
+     */
+    public class FairPlexTime : IamCSProcess {
 
-    public class AltingExample : IamCSProcess
+    private readonly AltingChannelInput[] In;
+    private readonly ChannelOutput Out;
+    private readonly long timeout;
+
+    public FairPlexTime(AltingChannelInput[] In, ChannelOutput Out, long timeout) {
+        this.In = In;
+        this.Out = Out;
+        this.timeout = timeout;
+    }
+
+    public void run()
     {
 
-        private readonly AltingChannelInput in0, in1;
+        Guard[] guards = new Guard[In.Length + 1];
+        Array.Copy(In, 0, guards, 0, In.Length);
 
-        public AltingExample(/*final*/ AltingChannelInput in0,
-        /*final*/ AltingChannelInput in1)
+        CSTimer tim = new CSTimer();
+        int timerIndex = In.Length;
+        guards[timerIndex] = tim;
+
+        Alternative alt = new Alternative(guards);
+
+        Boolean running = true;
+        tim.setAlarm(tim.read() + timeout);
+        while (running)
         {
-            this.in0 = in0;
-            this.in1 = in1;
-        }
-
-        public void run()
-        {
-
-            /*final*/
-            Guard[] altChans = { in0, in1 };
-            /*final*/
-            Alternative alt = new Alternative(altChans);
-
-            while (true)
+            int index = alt.fairSelect();
+            if (index == timerIndex)
             {
-                switch (alt.select())
-                {
-                    case 0:
-                        Console.WriteLine("in0 read " + in0.read());
-                        break;
-                    case 1:
-                        Console.WriteLine("in1 read " + in1.read());
-                        break;
-                }
-                //Thread.Sleep(100);
+                running = false;
             }
-
+            else
+            {
+                Out.write(In[index].read());
+            }
         }
+
+       Console.WriteLine("Goodbye from FairPlexTime ...");
+        //System.exit(0);
+
+    }
 
     }
 }

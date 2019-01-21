@@ -19,6 +19,8 @@ namespace Alternative_Example
 
             //Alting input example
             IamCSProcess[] altingInputExample = { num, num2, altingExample };
+            new CSPParallel(altingInputExample).run();
+
 
             //================ Alting Output Example =========================
             //AltingOutputExample altingOutput = new AltingOutputExample((AltingChannelOutput)channel1.Out(), (AltingChannelOutput)channel2.Out());
