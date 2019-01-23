@@ -17,46 +17,49 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-package jcspDemos.wotNoChickens.channel;
+using System;
+using CSPlang;
 
+namespace Canteen_Alternative_With_Preconditions_Example
+{
+    /**
+     * @author P.H. Welch
+     */
+    class Chef : IamCSProcess {
 
+    //The Chef is an active object.  He/she cooks chickens in batches of four --
+    //taking around 2 seconds per batch -- and then sends them to the Canteen.
+    //The Chef is delayed in the Canteen, waiting for an acknowledge that the
+    //batch has been set down OK.
+    //
+    //This cycle continues indefinitely.
 
-import jcsp.lang.*;
+    private ChannelOutput supply;
 
-/**
- * @author P.H. Welch
- */
-class Chef implements CSProcess {
-
-  //The Chef is an active object.  He/she cooks chickens in batches of four --
-  //taking around 2 seconds per batch -- and then sends them to the Canteen.
-  //The Chef is delayed in the Canteen, waiting for an acknowledge that the
-  //batch has been set down OK.
-  //
-  //This cycle continues indefinitely.
-
-  private final ChannelOutputInt supply;
-
-  public Chef (ChannelOutputInt supply) {
-    this.supply = supply;
-  }
-
-  public void run () {
-
-    final CSTimer tim = new CSTimer ();
-
-    int n_chickens;
-
-    System.out.println ("            Chef    : starting ... ");
-    while (true) {
-      // cook 4 chickens
-      System.out.println ("            Chef    : cooking ... ");
-      tim.after (tim.read () + 2000);       // this takes 3 seconds to cook
-      n_chickens = 4;
-      System.out.println ("            Chef    : " + n_chickens + " chickens, ready-to-go ... ");
-      supply.write (n_chickens);            // supply the chickens
-      supply.write (0);                     // wait till they're set down
+    public Chef(ChannelOutput supply)
+    {
+        this.supply = supply;
     }
-  }
 
+    public void run()
+    {
+
+        CSTimer tim = new CSTimer();
+
+        int n_chickens;
+
+        Console.WriteLine("            Chef    : starting ... ");
+        while (true)
+        {
+                // cook 4 chickens
+            Console.WriteLine("            Chef    : cooking ... ");
+            tim.after(tim.read() + 2000); // this takes 3 seconds to cook
+            n_chickens = 4;
+            Console.WriteLine("            Chef    : " + n_chickens + " chickens, ready-to-go ... ");
+            supply.write(n_chickens); // supply the chickens
+            supply.write(0); // wait till they're set down
+        }
+    }
+
+    }
 }

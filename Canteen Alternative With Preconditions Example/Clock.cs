@@ -17,28 +17,31 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-package jcspDemos.wotNoChickens.channel;
+using System;
+using CSPlang;
 
+namespace Canteen_Alternative_With_Preconditions_Example
+{
 
+    /**
+     * @author P.H. Welch
+     */
+    class Clock : IamCSProcess {
 
-import jcsp.lang.*;
+    public void run()
+    {
 
-/**
- * @author P.H. Welch
- */
-class Clock implements CSProcess {
+        CSTimer tim = new CSTimer();
+        int tick = 0;
 
-  public void run () {
+        while (true)
+        {
+            Console.WriteLine("[TICK] " + tick);
+            tim.sleep(1000);
+            tick++;
+        }
 
-    final CSTimer tim = new CSTimer ();
-    int tick = 0;
-
-    while (true) {
-      System.out.println ("[TICK] " + tick);
-      tim.sleep (1000);
-      tick++;
     }
 
-  }
-
+    }
 }

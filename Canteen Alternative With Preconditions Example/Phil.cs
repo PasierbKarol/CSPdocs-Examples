@@ -17,53 +17,58 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-package jcspDemos.wotNoChickens.channel;
+using System;
+using CSPlang;
 
+namespace Canteen_Alternative_With_Preconditions_Example
+{
+    /**
+     * @author P.H. Welch
+     */
+    class Phil : IamCSProcess {
 
+    //A Philosopher thinks for a while -- around 3 seconds -- and then goes to the
+    //Canteen for food, consuming what he gets straight away.   This cycle continues
+    //indefinitely.
+    //
+    //Except, that is, for Philosopher 0 ...  who refuses to think and just keeps
+    //going to the Canteen.
+    //
+    //For this Canteen, when there's no chicken, the Philosphers are just kept
+    //waiting in the service queue.  The greedy Philosopher no longer loses his
+    //place through getting in before the food is cooked and doesn't starve.
 
-import jcsp.lang.*;
+    private int id;
 
-/**
- * @author P.H. Welch
- */
-class Phil implements CSProcess {
+    private ChannelOutput service;
+    private ChannelInput deliver;
 
-  //A Philosopher thinks for a while -- around 3 seconds -- and then goes to the
-  //Canteen for food, consuming what he gets straight away.   This cycle continues
-  //indefinitely.
-  //
-  //Except, that is, for Philosopher 0 ...  who refuses to think and just keeps
-  //going to the Canteen.
-  //
-  //For this Canteen, when there's no chicken, the Philosphers are just kept
-  //waiting in the service queue.  The greedy Philosopher no longer loses his
-  //place through getting in before the food is cooked and doesn't starve.
-
-  private final  int id;
-
-  private final ChannelOutputInt service;
-  private final ChannelInputInt deliver;
-
-  public Phil (int id, ChannelOutputInt service, ChannelInputInt deliver) {
-    this.id = id;
-    this.service = service;
-    this.deliver = deliver;
-  }
-
-  public void run () {
-    final CSTimer tim = new CSTimer ();
-    System.out.println ("      Phil " + id + "  : starting ... ");
-    while (true) {
-      // everyone, bar Philosopher 0, has a little think
-      if (id > 0) {
-        tim.after (tim.read () + 3000);   // thinking
-      }
-      // want chicken
-      System.out.println ("      Phil " + id + "  : gotta eat ... ");
-      service.write (0);
-      deliver.read ();
-      System.out.println ("      Phil " + id + "  : mmm ... that's good ... ");
+    public Phil(int id, ChannelOutput service, ChannelInput deliver)
+    {
+        this.id = id;
+        this.service = service;
+        this.deliver = deliver;
     }
-  }
 
+    public void run()
+    {
+        CSTimer tim = new CSTimer();
+        Console.WriteLine("      Phil " + id + "  : starting ... ");
+        while (true)
+        {
+            // everyone, bar Philosopher 0, has a little think
+            if (id > 0)
+            {
+                tim.after(tim.read() + 3000); // thinking
+            }
+
+                // want chicken
+            Console.WriteLine("      Phil " + id + "  : gotta eat ... ");
+            service.write(0);
+            deliver.read();
+            Console.WriteLine("      Phil " + id + "  : mmm ... that's good ... ");
+        }
+    }
+
+    }
 }

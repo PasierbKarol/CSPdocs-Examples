@@ -23,56 +23,59 @@ using CSPlang;
 namespace Canteen_Alternative_With_Preconditions_Example
 {
 
-    public class Canteen : IamCSProcess {
-
-    private readonly AltingChannelInput supply;
-
-    // from the cook
-    private readonly AltingChannelInput request; // from a philosopher
-    private readonly ChannelOutput deliver; // to a philosopher
-
-    public Canteen(AltingChannelInput supply, AltingChannelInput request, ChannelOutput deliver) {
-        this.supply = supply;
-        this.request = request;
-        this.deliver = deliver;
-    }
-
-    public void run()
+    public class Canteen : IamCSProcess
     {
 
-        Guard[] guard = {supply, request};
-        Boolean[] preCondition = new Boolean[guard.Length];
-        const int SUPPLY = 0;
-        const int REQUEST = 1;
+        private AltingChannelInput service;
 
-        Alternative alt = new Alternative(guard);
+        // shared from all Philosphers (any-1)
+        private ChannelOutput deliver; // shared to all Philosphers (but only used 1-1)
+        private AltingChannelInput supply; // from the Chef (1-1)
 
-        int maxChickens = 20;
-        int maxSupply = 4;
-        int limitChickens = maxChickens - maxSupply;
-
-        int oneChicken = 1; // ready to go!
-
-        int nChickens = 0; // invariant : 0 <= nChickens <= maxChickens
-
-        while (true)
+        public Canteen(AltingChannelInput service, AltingChannelInput supply, ChannelOutput deliver)
         {
-            preCondition[SUPPLY] = (nChickens <= limitChickens);
-            preCondition[REQUEST] = (nChickens > 0);
-            switch (alt.priSelect(preCondition))
-            {
-                case SUPPLY:
-                    nChickens += (int) supply.read(); // <= maxSupply
-                    break;
-                case REQUEST:
-                    Object dummy = request.read(); // we have to still input the signal
-                    deliver.write(oneChicken); // preCondition ==> (nChickens > 0)
-                    nChickens--;
-                    break;
-            }
+            this.service = service;
+            this.deliver = deliver;
+            this.supply = supply;
         }
 
-    }
+        public void run()
+        {
 
+            Alternative alt = new Alternative(new Guard[] {supply, service});
+            Boolean[] precondition = {true, false};
+            const int SUPPLY = 0;
+            const int SERVICE = 1;
+
+            CSTimer tim = new CSTimer();
+
+            int nChickens = 0;
+
+            Console.WriteLine("            Canteen : starting ... ");
+            while (true)
+            {
+                precondition[SERVICE] = (nChickens > 0);
+                switch (alt.fairSelect(precondition))
+                {
+                    case SUPPLY:
+                        int value = (int) supply.read(); // new batch of chickens from the Chef
+                        Console.WriteLine("            Canteen : ouch ... make room ... this dish is very hot ... ");
+                        tim.after(tim.read() + 3000); // this takes 3 seconds to put down
+                        nChickens += value;
+                        Console.WriteLine("            Canteen : more chickens ... " +
+                                          nChickens + " now available ... ");
+                        supply.read(); // let the Chef get back to cooking
+                        break;
+                    case SERVICE:
+                        service.read(); // Philosopher wants a chicken
+                        Console.WriteLine("      Canteen : one chicken coming down ... " +
+                                          (nChickens - 1) + " left ... ");
+                        deliver.write(1); // serve one chicken
+                        nChickens--;
+                        break;
+                }
+            }
+
+        }
     }
 }
