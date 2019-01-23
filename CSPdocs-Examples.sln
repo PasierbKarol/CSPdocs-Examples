@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polling Alternative Skip Gu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternative FairPlex", "Alternative FairPlex\Alternative FairPlex.csproj", "{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canteen Alternative With Preconditions Example", "Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj", "{B8000700-A8DE-45A2-BE9C-323BAD4192BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
