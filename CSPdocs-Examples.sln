@@ -9,11 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alternative Example", "Alte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularTimerExample", "RegularTimerExample\RegularTimerExample.csproj", "{A4735026-781F-4FC5-AF4B-7415F3606E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polling Alternative Skip Guard Example", "Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj", "{BEF23DA4-7659-4960-A01F-EFF1397519A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polling Alternative Skip Guard Example", "Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj", "{BEF23DA4-7659-4960-A01F-EFF1397519A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternative FairPlex", "Alternative FairPlex\Alternative FairPlex.csproj", "{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alternative FairPlex", "Alternative FairPlex\Alternative FairPlex.csproj", "{8C86BD82-411A-493B-83D0-9EC5D64D4C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canteen Alternative With Preconditions Example", "Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj", "{B8000700-A8DE-45A2-BE9C-323BAD4192BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Canteen Alternative With Preconditions Example", "Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj", "{B8000700-A8DE-45A2-BE9C-323BAD4192BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltingBarrierTesting", "AltingBarrierTesting\AltingBarrierTesting.csproj", "{90628A92-05A8-4F32-8617-7CEF20C0E86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regulate - Two Timer Guards Example", "Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj", "{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTimerGuard", "TwoTimerGuard\TwoTimerGuard.csproj", "{5A768EEC-092E-4167-9D13-A652CEC617FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8000700-A8DE-45A2-BE9C-323BAD4192BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90628A92-05A8-4F32-8617-7CEF20C0E86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90628A92-05A8-4F32-8617-7CEF20C0E86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90628A92-05A8-4F32-8617-7CEF20C0E86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90628A92-05A8-4F32-8617-7CEF20C0E86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
