@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Canteen Alternative With Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltingBarrierTesting", "AltingBarrierTesting\AltingBarrierTesting.csproj", "{90628A92-05A8-4F32-8617-7CEF20C0E86F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regulate - Two Timer Guards Example", "Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj", "{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regulate - Two Timer Guards Example", "Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj", "{1C3838F6-B5A6-4794-A745-80F0B8F1FC89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTimerGuard", "TwoTimerGuard\TwoTimerGuard.csproj", "{5A768EEC-092E-4167-9D13-A652CEC617FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoTimerGuard", "TwoTimerGuard\TwoTimerGuard.csproj", "{5A768EEC-092E-4167-9D13-A652CEC617FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barriers", "Barriers\Barriers.csproj", "{979B94BC-8F0D-4EA0-8AFC-29D89FA070E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A768EEC-092E-4167-9D13-A652CEC617FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979B94BC-8F0D-4EA0-8AFC-29D89FA070E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979B94BC-8F0D-4EA0-8AFC-29D89FA070E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979B94BC-8F0D-4EA0-8AFC-29D89FA070E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979B94BC-8F0D-4EA0-8AFC-29D89FA070E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

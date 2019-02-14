@@ -24,14 +24,14 @@ using CSPlang;
 namespace AltingBarrierTesting
 {
 
-    public class AltingBarrierGadget0 : IamCSProcess
+    public class AltingBarrierExampleProcess : IamCSProcess
     {
 
         private readonly AltingChannelInput click;
         private readonly AltingBarrier group;
         private readonly ChannelOutput configure;
 
-        public AltingBarrierGadget0(
+        public AltingBarrierExampleProcess(
             AltingChannelInput click, AltingBarrier group, ChannelOutput configure
         )
         {
@@ -42,10 +42,7 @@ namespace AltingBarrierTesting
 
         public void run()
         {
-
-            /*final*/
-            Alternative clickGroup =
-      new Alternative(new Guard[] { click, group });
+            Alternative clickGroup = new Alternative(new Guard[] { click, group });
 
             const int CLICK = 0, GROUP = 1;
 
@@ -55,7 +52,7 @@ namespace AltingBarrierTesting
             while (true)
             {
 
-                configure.write(Color.Green); // pretty
+                configure.write("Color.Green"); // pretty
 
                 while (!click.pending())
                 {
@@ -65,7 +62,7 @@ namespace AltingBarrierTesting
 
                 click.read(); // must consume the click
 
-                configure.write(Color.Red); // pretty
+                configure.write("Color.Red"); // pretty
 
                 Boolean group = true;
                 while (group)

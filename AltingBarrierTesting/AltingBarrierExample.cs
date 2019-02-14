@@ -24,48 +24,31 @@ using PlugAndPlay;
 namespace AltingBarrierTesting
 {
 
-    public class AltingBarrierGadget0Demo0
+    public class AltingBarrierExample
     {
 
         public static void Main(String[] argv)
         {
-
-            /*final*/
             int nUnits = 8;
 
-            /*final*/
+            Console.WriteLine("Enter number of units: ");
             nUnits = (int)Console.Read(); //Ask.Int("\nnUnits = ", 3, 10);
 
             // make the buttons
 
-            /*final*/
             One2OneChannel[] _event = Channel.one2oneArray(nUnits);
 
-            /*final*/
             One2OneChannel[] configure = Channel.one2oneArray(nUnits);
-
-            /*final*/
-            Boolean horizontal = true;
-
-            /*final*/
-            FramedButtonArray buttons =
-          new FramedButtonArray(
-              "AltingBarrier: Gadget 0, Demo 0", nUnits, 120, nUnits * 100,
-              horizontal, Channel.getInputArray(configure), Channel.getOutputArray(_event)
-      );
 
             // construct an array of front-ends to a single alting barrier
 
-            /*final*/
             AltingBarrier[] group = AltingBarrier.create(nUnits);
 
             // make the gadgets
-
-            /*final*/
-            AltingBarrierGadget0[] gadgets = new AltingBarrierGadget0[nUnits];
+            AltingBarrierExampleProcess[] gadgets = new AltingBarrierExampleProcess[nUnits];
             for (int i = 0; i < gadgets.Length; i++)
             {
-                gadgets[i] = new AltingBarrierGadget0(_event[i].In(), group[i], configure[i].Out());
+                gadgets[i] = new AltingBarrierExampleProcess(_event[i].In(), group[i], configure[i].Out());
             }
 
             // run everything
