@@ -23,14 +23,12 @@ using CSPlang;
 
 namespace Alternative_Example
 {
-
     public class AltingExample : IamCSProcess
     {
-
         private readonly AltingChannelInput in0, in1;
 
-        public AltingExample(/*final*/ AltingChannelInput in0,
-        /*final*/ AltingChannelInput in1)
+        public AltingExample( /*final*/ AltingChannelInput in0,
+            /*final*/ AltingChannelInput in1)
         {
             this.in0 = in0;
             this.in1 = in1;
@@ -38,10 +36,7 @@ namespace Alternative_Example
 
         public void run()
         {
-
-            /*final*/
-            Guard[] altChans = { in0, in1 };
-            /*final*/
+            Guard[] altChans = {in0, in1};
             Alternative alt = new Alternative(altChans);
 
             while (true)
@@ -55,10 +50,9 @@ namespace Alternative_Example
                         Console.WriteLine("in1 read " + in1.read());
                         break;
                 }
+
                 //Thread.Sleep(100);
             }
-
         }
-
     }
 }

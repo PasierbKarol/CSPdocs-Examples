@@ -22,10 +22,8 @@ using CSPlang;
 
 namespace Canteen_Alternative_With_Preconditions_Example
 {
-
     public class Canteen : IamCSProcess
     {
-
         private AltingChannelInput service;
 
         // shared from all Philosphers (any-1)
@@ -41,7 +39,6 @@ namespace Canteen_Alternative_With_Preconditions_Example
 
         public void run()
         {
-
             Alternative alt = new Alternative(new Guard[] {supply, service});
             Boolean[] precondition = {true, false};
             const int SUPPLY = 0;
@@ -75,7 +72,6 @@ namespace Canteen_Alternative_With_Preconditions_Example
                         break;
                 }
             }
-
         }
     }
 }

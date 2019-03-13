@@ -25,13 +25,11 @@ using CSPlang;
 
 namespace Polling_Alternative_Skip_Guard_Example
 {
-
     /**
      * @author P.H. Welch
      */
     public class Polling : IamCSProcess
     {
-
         private readonly AltingChannelInput In0;
         private readonly AltingChannelInput In1;
         private readonly AltingChannelInput In2;
@@ -53,7 +51,6 @@ namespace Polling_Alternative_Skip_Guard_Example
 
         public void run()
         {
-
             Skip skip = new Skip();
             Guard[] guards = {In0, In1, In2, In3, In4, skip};
             Alternative alt = new Alternative(guards);

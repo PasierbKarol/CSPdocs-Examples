@@ -5,7 +5,7 @@ using PlugAndPlay;
 
 namespace Alternative_Example
 {
-    class Program
+    class RunAlternativeExample
     {
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace Alternative_Example
             Numbers num2 = new Numbers(channel2.Out());
 
             //Alting input example
-            IamCSProcess[] altingInputExample = { num, num2, altingExample };
+            IamCSProcess[] altingInputExample = {num, num2, altingExample};
             new CSPParallel(altingInputExample).run();
 
 
@@ -32,7 +32,6 @@ namespace Alternative_Example
             //new CSPParallel(altingOutputExample).run();
 
             Console.ReadKey();
-
         }
     }
 }

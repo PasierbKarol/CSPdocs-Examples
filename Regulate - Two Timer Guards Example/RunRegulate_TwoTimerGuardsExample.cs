@@ -4,7 +4,7 @@ using PlugAndPlay;
 
 namespace Regulate___Two_Timer_Guards_Example
 {
-    class Program
+    class RunRegulate_TwoTimerGuardsExample
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,6 @@ namespace Regulate___Two_Timer_Guards_Example
             One2OneChannel reset = Channel.one2one();
 
             var process = new SupportingProcess(reset);
-
 
             new CSPParallel(
                 new IamCSProcess[]

@@ -25,18 +25,48 @@ namespace Canteen_Alternative_With_Preconditions_Example
     /**
      * @author P.H. Welch
      */
-    class Clock : IamCSProcess
+    class Philosopher : IamCSProcess
     {
+        //A Philosopher thinks for a while -- around 3 seconds -- and then goes to the
+        //Canteen for food, consuming what he gets straight away.   This cycle continues
+        //indefinitely.
+        //
+        //Except, that is, for Philosopher 0 ...  who refuses to think and just keeps
+        //going to the Canteen.
+        //
+        //For this Canteen, when there's no chicken, the Philosphers are just kept
+        //waiting in the service queue.  The greedy Philosopher no longer loses his
+        //place through getting in before the food is cooked and doesn't starve.
+
+        private int id;
+
+        private ChannelOutput service;
+        private ChannelInput deliver;
+
+        public Philosopher(int id, ChannelOutput service, ChannelInput deliver)
+        {
+            this.id = id;
+            this.service = service;
+            this.deliver = deliver;
+        }
+
         public void run()
         {
             CSTimer tim = new CSTimer();
-            int tick = 0;
-
+            Console.WriteLine("      Philosopher " + id + "  : starting ... ");
             while (true)
             {
-                Console.WriteLine("[TICK] " + tick);
-                tim.sleep(1000);
-                tick++;
+                // everyone, bar Philosopher 0, has a little think
+                if (id > 0)
+                {
+                    tim.after(tim.read() + 3000); // thinking
+                }
+
+                // want chicken
+                Console.WriteLine("      Philosopher " + id + "  : gotta eat ... ");
+                service.write(0);
+                deliver.read();
+                Console.WriteLine("      Philosopher " + id + "  : mmm ... that's good ... ");
             }
         }
     }

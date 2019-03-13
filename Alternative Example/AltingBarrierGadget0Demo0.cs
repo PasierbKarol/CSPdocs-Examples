@@ -23,44 +23,32 @@ using PlugAndPlay;
 
 namespace Alternative_Example
 {
-
     public class AltingBarrierGadget0Demo0
     {
-
         public static void main(String[] argv)
         {
+            int nUnits = 8;
 
-            /*final*/ int nUnits = 8;
-
-            /*final*/
-            nUnits = (int)Console.Read(); //Ask.Int("\nnUnits = ", 3, 10);
+            nUnits = (int) Console.Read(); //Ask.Int("\nnUnits = ", 3, 10);
 
             // make the buttons
-
-            /*final*/
             One2OneChannel[] _event = Channel.one2oneArray(nUnits);
 
-            /*final*/
             One2OneChannel[] configure = Channel.one2oneArray(nUnits);
 
-            /*final*/
             Boolean horizontal = true;
 
-            /*final*/
             FramedButtonArray buttons =
-          new FramedButtonArray(
-              "AltingBarrier: Gadget 0, Demo 0", nUnits, 120, nUnits * 100,
-              horizontal, Channel.getInputArray(configure), Channel.getOutputArray(_event)
-      );
+                new FramedButtonArray(
+                    "AltingBarrier: Gadget 0, Demo 0", nUnits, 120, nUnits * 100,
+                    horizontal, Channel.getInputArray(configure), Channel.getOutputArray(_event)
+                );
 
             // construct an array of front-ends to a single alting barrier
 
-            /*final*/
             AltingBarrier[] group = AltingBarrier.create(nUnits);
 
             // make the gadgets
-
-            /*final*/
             AltingBarrierGadget0[] gadgets = new AltingBarrierGadget0[nUnits];
             for (int i = 0; i < gadgets.Length; i++)
             {
@@ -75,8 +63,6 @@ namespace Alternative_Example
                     buttons, new CSPParallel(gadgets)
                 }
             ).run();
-
         }
-
     }
 }

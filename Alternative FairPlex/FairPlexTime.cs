@@ -26,49 +26,47 @@ namespace Alternative_FairPlex
     /**
      * @author P.H. Welch
      */
-    public class FairPlexTime : IamCSProcess {
-
-    private readonly AltingChannelInput[] In;
-    private readonly ChannelOutput Out;
-    private readonly long timeout;
-
-    public FairPlexTime(AltingChannelInput[] In, ChannelOutput Out, long timeout) {
-        this.In = In;
-        this.Out = Out;
-        this.timeout = timeout;
-    }
-
-    public void run()
+    public class FairPlexTime : IamCSProcess
     {
+        private readonly AltingChannelInput[] In;
+        private readonly ChannelOutput Out;
+        private readonly long timeout;
 
-        Guard[] guards = new Guard[In.Length + 1];
-        Array.Copy(In, 0, guards, 0, In.Length);
-
-        CSTimer tim = new CSTimer();
-        int timerIndex = In.Length;
-        guards[timerIndex] = tim;
-
-        Alternative alt = new Alternative(guards);
-
-        Boolean running = true;
-        tim.setAlarm(tim.read() + timeout);
-        while (running)
+        public FairPlexTime(AltingChannelInput[] In, ChannelOutput Out, long timeout)
         {
-            int index = alt.fairSelect();
-            if (index == timerIndex)
-            {
-                running = false;
-            }
-            else
-            {
-                Out.write(In[index].read());
-            }
+            this.In = In;
+            this.Out = Out;
+            this.timeout = timeout;
         }
 
-       Console.WriteLine("Goodbye from FairPlexTime ...");
-        //System.exit(0);
+        public void run()
+        {
+            Guard[] guards = new Guard[In.Length + 1];
+            Array.Copy(In, 0, guards, 0, In.Length);
 
-    }
+            CSTimer tim = new CSTimer();
+            int timerIndex = In.Length;
+            guards[timerIndex] = tim;
 
+            Alternative alt = new Alternative(guards);
+
+            Boolean running = true;
+            tim.setAlarm(tim.read() + timeout);
+            while (running)
+            {
+                int index = alt.fairSelect();
+                if (index == timerIndex)
+                {
+                    running = false;
+                }
+                else
+                {
+                    Out.write(In[index].read());
+                }
+            }
+
+            Console.WriteLine("Goodbye from FairPlexTime ...");
+            //System.exit(0);
+        }
     }
 }

@@ -20,19 +20,16 @@ namespace RegularTimerExample
 
         public void run()
         {
-
             CSTimer timer = new CSTimer();
-            long timeout = timer.read();       // read the (absolute) time once only
+            long timeout = timer.read(); // read the (absolute) time once only
 
             while (true)
             {
                 N++;
                 Out.write(N);
-                timeout += interval;            // set the next (absolute) timeOut
-                timer.after(timeout);          // wait until that (absolute) timeOut
+                timeout += interval; // set the next (absolute) timeOut
+                timer.after(timeout); // wait until that (absolute) timeOut
             }
         }
     }
 }
-
-

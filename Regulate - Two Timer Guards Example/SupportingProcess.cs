@@ -12,7 +12,6 @@ namespace Regulate___Two_Timer_Guards_Example
         public SupportingProcess(One2OneChannel reset)
         {
             this.reset = reset;
-
         }
 
         public void run()

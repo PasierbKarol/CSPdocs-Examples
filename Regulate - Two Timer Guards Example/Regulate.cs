@@ -45,17 +45,16 @@ namespace Regulate___Two_Timer_Guards_Example
 
         public void run()
         {
-
             CSTimer tim = new CSTimer();
 
-            Guard[] guards = { reset, tim, In};              // prioritised order
-           const int RESET = 0;                                  // index into guards
-           const int TIM = 1;                                    // index into guards
-           const int IN = 2;                                     // index into guards
+            Guard[] guards = {reset, tim, In}; // prioritised order
+            const int RESET = 0; // index into guards
+            const int TIM = 1; // index into guards
+            const int IN = 2; // index into guards
 
             Alternative alt = new Alternative(guards);
 
-            Object x = null;                                      // holding object
+            Object x = null; // holding object
 
             long interval = initialInterval;
 
@@ -67,12 +66,12 @@ namespace Regulate___Two_Timer_Guards_Example
                 switch (alt.priSelect())
                 {
                     case RESET:
-                        interval = (long)reset.read();
+                        interval = (long) reset.read();
                         timeout = tim.read();
                         break;
                     // fall through
                     case TIM:
-                        interval = (long)reset.read();
+                        interval = (long) reset.read();
                         timeout = tim.read();
                         Out.write(x);
                         timeout += interval;
@@ -83,7 +82,6 @@ namespace Regulate___Two_Timer_Guards_Example
                         break;
                 }
             }
-
         }
     }
 }

@@ -44,7 +44,6 @@ namespace Regulate___Two_Timer_Guards_Example
 
         public void run()
         {
-
             int innerCycleTime = n * start;
 
             CSTimer tim = new CSTimer();
@@ -55,18 +54,17 @@ namespace Regulate___Two_Timer_Guards_Example
                 int interval = start;
                 while (interval >= stop)
                 {
-                    //int Interval = new Integer(interval);
                     int innerCycles = innerCycleTime / interval;
                     for (int i = 0; i < innerCycles; i++)
                     {
                         Out.write(interval);
-                        timeout += (long)interval;
+                        timeout += (long) interval;
                         tim.after(timeout);
                     }
+
                     interval /= 2;
                 }
             }
-
         }
     }
 }

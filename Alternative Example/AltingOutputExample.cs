@@ -24,38 +24,38 @@ using CSPlang.Alting;
 
 namespace Alternative_Example
 {
-    public class AltingOutputExample : IamCSProcess {
-
-    private readonly AltingChannelOutput out0, out1;
-
-    public AltingOutputExample(/*final*/ AltingChannelOutput out0,
-    /*final*/ AltingChannelOutput out1) {
-        this.out0 = out0;
-        this.out1 = out1;
-    }
-
-    public void run()
+    public class AltingOutputExample : IamCSProcess
     {
+        private readonly AltingChannelOutput out0, out1;
 
-        /*final*/ Guard[] altChans = {out0, out1};
-        /*final*/ Alternative alt = new Alternative(altChans);
-
-        while (true)
+        public AltingOutputExample( /*final*/ AltingChannelOutput out0,
+            /*final*/ AltingChannelOutput out1)
         {
-            switch (alt.select())
-            {
-                case 0:
-                    out0.write(0);
-                    Console.WriteLine("out0 written");
-                    break;
-                case 1:
-                    out1.write(1);
-                    Console.WriteLine("out1 written");
-                    break;
-            }
+            this.out0 = out0;
+            this.out1 = out1;
         }
 
-    }
+        public void run()
+        {
+            /*final*/
+            Guard[] altChans = {out0, out1};
+            /*final*/
+            Alternative alt = new Alternative(altChans);
 
+            while (true)
+            {
+                switch (alt.select())
+                {
+                    case 0:
+                        out0.write(0);
+                        Console.WriteLine("out0 written");
+                        break;
+                    case 1:
+                        out1.write(1);
+                        Console.WriteLine("out1 written");
+                        break;
+                }
+            }
+        }
     }
 }

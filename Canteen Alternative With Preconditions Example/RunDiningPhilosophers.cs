@@ -5,7 +5,7 @@ using CSPlang.Any2;
 
 namespace Canteen_Alternative_With_Preconditions_Example
 {
-    class Program
+    class RunDiningPhilosophers
     {
         static void Main(string[] args)
         {
@@ -15,18 +15,18 @@ namespace Canteen_Alternative_With_Preconditions_Example
             One2OneChannel deliver = Channel.one2one();
             One2OneChannel supply = Channel.one2one();
 
-            Phil[] phil = new Phil[n_philosophers];
+            Philosopher[] philosopher = new Philosopher[n_philosophers];
             for (int i = 0; i < n_philosophers; i++)
             {
-                phil[i] = new Phil(i, service.Out(), deliver.In());
+                philosopher[i] = new Philosopher(i, service.Out(), deliver.In());
             }
 
             IamCSProcess[] network =
             {
                 new Clock(),
-                new Canteen(service.In(),  supply.In(), deliver.Out()),
+                new Canteen(service.In(), supply.In(), deliver.Out()),
                 new Chef(supply.Out()),
-                new CSPParallel(phil)
+                new CSPParallel(philosopher)
             };
 
             new CSPParallel(network).run();

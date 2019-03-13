@@ -1,62 +1,427 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H1M24.2722447S" SolutionTotalViewTime="PT1H27M47.8669707S" SolutionTotalDebugTime="PT3M56.5836136S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H4M56.8375083S" SolutionTotalViewTime="PT1H37M41.3743479S" SolutionTotalDebugTime="PT4M29.5240827S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
   </FileVersion>
-  <SolutionFolder>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples</SolutionFolder>
+  <SolutionFolder>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples</SolutionFolder>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT1M11.9567083S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT25.9653802S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:25.1285542+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9064678S" EditActiveTime="PT1.1436893S">
+      <ModifiedDate>2019-03-13T11:03:09.4064246+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:06.7910614+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.1972714S" EditActiveTime="PT24.4796007S">
+      <ModifiedDate>2019-03-13T11:04:24.6901467+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:11.8452882+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.4691034S" EditActiveTime="PT3.3816515S">
+      <ModifiedDate>2019-03-13T11:03:48.4843987+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:12.5154716+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.654663S" EditActiveTime="PT0.8033775S">
+      <ModifiedDate>2019-03-13T11:03:39.3319978+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingOutputExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:13.1759331+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.144525S" EditActiveTime="PT0.8037369S">
+      <ModifiedDate>2019-03-13T11:00:54.5630793+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:51.6799353+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25.7593036S" EditActiveTime="PT1.1796167S">
+      <ModifiedDate>2019-03-13T11:00:52.3242065+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:53.2637324+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.2310239S" EditActiveTime="PT0.7721347S">
+      <ModifiedDate>2019-03-13T11:00:57.2725138+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:54.473384+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.2795835S" EditActiveTime="PT0.76366S">
+      <ModifiedDate>2019-03-13T11:06:47.3603606+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:18.7600992+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.8372516S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-13T11:08:27.7725328+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.88838S" EditActiveTime="PT1.004991S">
+      <ModifiedDate>2019-03-13T11:05:10.7289814+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:31.4274948+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.7847413S" EditActiveTime="PT2.4747598S">
+      <ModifiedDate>2019-03-13T11:05:05.5118921+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:32.0388601+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.6965957S" EditActiveTime="PT7.4454003S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:55.3999229+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M9.3813485S" EditActiveTime="PT1.2986045S">
+      <ModifiedDate>2019-03-13T11:00:47.9835154+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Philosopher.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:48.0767138+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9144431S" EditActiveTime="PT1.0054818S">
+      <ModifiedDate>2019-03-13T11:05:22.7211474+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:45.1394919+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.5932195S" EditActiveTime="PT3.825621S">
+      <ModifiedDate>2019-03-13T11:06:16.2505468+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:57.344897+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.4929707S" EditActiveTime="PT3.2269918S">
+      <ModifiedDate>2019-03-13T11:05:28.0352149+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
-      <CreatedDate>2019-02-14T11:37:40.311319+00:00</CreatedDate>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:44.8732037+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.4015621S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT14.7255865S" EditActiveTime="PT11.9662847S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:20.5429162+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0477699S" EditActiveTime="PT12.540665S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:14.0210941+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.6458025S" EditActiveTime="PT4.8696491S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:32.7325125+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.3868972S" EditActiveTime="PT2.7144499S">
+      <ModifiedDate>2019-03-13T11:06:27.6397885+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:19.8629718+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.7968765S" EditActiveTime="PT6.8693084S">
+      <ModifiedDate>2019-03-13T11:07:21.0775675+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:52.2911585+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.6612421S" EditActiveTime="PT2.5633525S">
+      <ModifiedDate>2019-03-13T11:07:58.4374759+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:47.7421083+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.788148S" EditActiveTime="PT0.8162202S">
+      <ModifiedDate>2019-03-13T11:06:24.1728236+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:20.6066637+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8406073S" EditActiveTime="PT3.6145695S">
+      <ModifiedDate>2019-03-13T11:07:13.2076787+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:52.8581495+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.744562S" EditActiveTime="PT0.7832896S">
+      <ModifiedDate>2019-03-13T11:07:52.2121395+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:48.9885475+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.9890879S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\RunAlternativeExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
-      <CreatedDate>2019-02-14T11:38:39.2803715+00:00</CreatedDate>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:35.613519+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.2234628S" EditActiveTime="PT0.6532531S">
+      <ModifiedDate>2019-03-13T11:05:00.0131183+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\RunAlternativeFairPlexExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:57.2509786+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18.967819S" EditActiveTime="PT0.8545041S">
+      <ModifiedDate>2019-03-13T11:00:59.8065536+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\RunDiningPhilosophers.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:47.2357845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.2411452S" EditActiveTime="PT6.7432236S">
+      <ModifiedDate>2019-03-13T11:06:09.3663676+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:58.0583392+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.7551026S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RunRegularTimerExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:43.5817057+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3892285S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\RunRegulate_TwoTimerGuardsExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:45.3478939+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.342666S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\RunSimpleBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:51.9822845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.2439747S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\RunTwoTimerGuardExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:08:17.5245718+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.1883439S" EditActiveTime="PT0.9076629S">
+      <ModifiedDate>2019-03-13T11:07:04.6954059+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:53.5428434+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.2098088S" EditActiveTime="PT2.5990426S">
+      <ModifiedDate>2019-03-13T11:07:01.2774329+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:54.2717589+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT7.3266309S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT44.1847057S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T15:12:18.2887163+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11M1.6501216S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT11M6.2163211S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T13:18:44.0027563+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M31.6760921S" EditActiveTime="PT2M5.1084123S">
-      <ModifiedDate>2018-11-12T11:14:47.5907298+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT2M35.5825599S" EditActiveTime="PT2M6.2521016S">
+      <ModifiedDate>2019-03-13T11:03:09.4064246+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2018-11-12T11:11:16.5875891+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -65,20 +430,20 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>3</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:33:13.1201009+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M24.91236S" EditActiveTime="PT3M12.3457426S">
-      <ModifiedDate>2019-01-21T11:51:41.1301029+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M34.1096314S" EditActiveTime="PT3M36.8253433S">
+      <ModifiedDate>2019-03-13T11:04:24.6901467+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>4</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2018-11-12T11:14:51.5432068+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -87,53 +452,53 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>3</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:32:50.4615173+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M16.8989265S" EditActiveTime="PT1M33.279028S">
-      <ModifiedDate>2019-01-21T13:06:39.6825163+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M32.3680299S" EditActiveTime="PT1M36.6606795S">
+      <ModifiedDate>2019-03-13T11:03:48.4843987+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2018-11-12T09:58:48.6649082+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M11.9282674S" EditActiveTime="PT1M18.90241S">
-      <ModifiedDate>2018-11-12T10:35:05.9588395+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M15.5829304S" EditActiveTime="PT1M19.7057875S">
+      <ModifiedDate>2019-03-13T11:03:39.3319978+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingOutputExample.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingOutputExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2018-11-12T10:20:12.8826942+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M41.4930404S" EditActiveTime="PT3M24.1363332S">
-      <ModifiedDate>2019-01-23T13:38:08.1741955+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M33.6375654S" EditActiveTime="PT3M24.9400701S">
+      <ModifiedDate>2019-03-13T11:00:54.5630793+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>3</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:36:34.9464812+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT14.197654S" EditActiveTime="PT39.7567371S">
-      <ModifiedDate>2019-01-23T13:31:55.6800096+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT39.9569576S" EditActiveTime="PT40.9363538S">
+      <ModifiedDate>2019-03-13T11:00:52.3242065+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:24.1318425+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -141,20 +506,20 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.java</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.java</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:39:03.0921089+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.6565393S" EditActiveTime="PT20.751022S">
-      <ModifiedDate>2019-01-23T13:28:12.3588321+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT17.8875632S" EditActiveTime="PT21.5231567S">
+      <ModifiedDate>2019-03-13T11:00:57.2725138+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:26.4762086+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -163,51 +528,52 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\College.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\College.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:27.6652703+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6.6947407S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
+    <DevTrackerDataItem ViewActiveTime="PT14.9743242S" EditActiveTime="PT0.76366S">
+      <ModifiedDate>2019-03-13T11:06:47.3603606+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:53:23.2510956+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M56.5836136S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT4M29.5240827S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
       <CreatedDate>2018-11-12T10:08:48.2250643+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT25.8988114S" EditActiveTime="PT1M13.6478329S">
-      <ModifiedDate>2019-01-21T13:14:16.4615759+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT32.7871914S" EditActiveTime="PT1M14.6528239S">
+      <ModifiedDate>2019-03-13T11:05:10.7289814+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:12:51.81343+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M45.7583657S" EditActiveTime="PT3M29.5593746S">
-      <ModifiedDate>2019-01-21T13:19:09.4196151+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M49.543107S" EditActiveTime="PT3M32.0341344S">
+      <ModifiedDate>2019-03-13T11:05:05.5118921+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:14:20.7884363+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -216,31 +582,53 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTimeTest.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTimeTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:19:14.0847186+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT16.9535177S" EditActiveTime="PT1M0.1139711S">
+    <DevTrackerDataItem ViewActiveTime="PT34.6501134S" EditActiveTime="PT1M7.5593714S">
       <ModifiedDate>2019-01-23T13:31:29.2798807+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:28.7444829+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M8.0146721S" EditActiveTime="PT3M54.9651188S">
-      <ModifiedDate>2019-01-21T12:52:02.3465868+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M9.3813485S" EditActiveTime="PT1.2986045S">
+      <ModifiedDate>2019-03-13T11:00:47.9835154+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Philosopher.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:48.0767138+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT47.4333352S" EditActiveTime="PT37.3874375S">
+      <ModifiedDate>2019-03-13T11:05:22.7211474+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-02-14T11:42:39.4660057+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M13.6078916S" EditActiveTime="PT3M58.7907398S">
+      <ModifiedDate>2019-03-13T11:06:16.2505468+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:52:37.7319248+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -248,9 +636,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\PollingTest.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\PollingTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:56:34.1207776+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -268,20 +656,20 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\CSPdocs-Examples\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\CSPdocs-Examples\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\CSPdocs-Examples\CSPdocs-Examples.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\CSPdocs-Examples\CSPdocs-Examples.csproj</ProjectName>
       <CreatedDate>2018-11-12T09:35:14.4241701+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M33.0551114S" EditActiveTime="PT8M11.6992218S">
+    <DevTrackerDataItem ViewActiveTime="PT5M42.1028813S" EditActiveTime="PT8M24.2398868S">
       <ModifiedDate>2019-01-21T13:05:05.3772631+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>3</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2018-11-12T09:58:01.166373+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -289,31 +677,31 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:51:36.6946604+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M9.0023189S" EditActiveTime="PT1M34.0640156S">
+    <DevTrackerDataItem ViewActiveTime="PT2M28.6481214S" EditActiveTime="PT1M38.9336647S">
       <ModifiedDate>2019-01-21T18:12:49.7103362+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:12:05.4096477+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M0.7585966S" EditActiveTime="PT3M21.9673947S">
+    <DevTrackerDataItem ViewActiveTime="PT2M15.4841831S" EditActiveTime="PT3M33.9336794S">
       <ModifiedDate>2019-01-23T13:35:41.2807722+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:33:52.4512089+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -321,41 +709,42 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:31:01.2181856+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT26.5623189S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
+    <DevTrackerDataItem ViewActiveTime="PT42.9492161S" EditActiveTime="PT2.7144499S">
+      <ModifiedDate>2019-03-13T11:06:27.6397885+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:26:50.9940558+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M10.816747S" EditActiveTime="PT5M4.4967205S">
-      <ModifiedDate>2019-01-28T14:43:30.9127152+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT2M35.6136235S" EditActiveTime="PT5M11.3660289S">
+      <ModifiedDate>2019-03-13T11:07:21.0775675+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:30:00.187388+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M41.9993301S" EditActiveTime="PT1M47.1415612S">
-      <ModifiedDate>2019-01-28T14:58:21.8876853+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT2M2.6605722S" EditActiveTime="PT1M49.7049137S">
+      <ModifiedDate>2019-03-13T11:07:58.4374759+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:49:19.2434949+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -364,96 +753,607 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\BarrierExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\BarrierExample.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:35:44.4226377+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M38.3232872S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
+    <DevTrackerDataItem ViewActiveTime="PT3M12.7986962S" EditActiveTime="PT1M7.30451S">
+      <ModifiedDate>2019-03-13T11:05:28.0352149+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:37:09.7467838+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M22.0849736S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
+    <DevTrackerDataItem ViewActiveTime="PT1M25.8731216S" EditActiveTime="PT0.8162202S">
+      <ModifiedDate>2019-03-13T11:06:24.1728236+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T11:11:48.4673028+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M19.0345752S" EditActiveTime="PT1M44.9959156S">
-      <ModifiedDate>2019-01-28T14:45:04.4785444+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.8751825S" EditActiveTime="PT1M48.6104851S">
+      <ModifiedDate>2019-03-13T11:07:13.2076787+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:38:13.8627732+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT45.6966858S" EditActiveTime="PT5M51.9031028S">
-      <ModifiedDate>2019-01-28T15:04:22.9604185+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT51.4412478S" EditActiveTime="PT5M52.6863924S">
+      <ModifiedDate>2019-03-13T11:07:52.2121395+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:56:31.0216634+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT16M17.4429505S" EditActiveTime="PT3M29.2220778S">
-      <ModifiedDate>2019-01-21T12:41:39.1797445+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT0.9890879S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\RunAlternativeExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:35.613519+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.2234628S" EditActiveTime="PT0.6532531S">
+      <ModifiedDate>2019-03-13T11:05:00.0131183+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\RunAlternativeFairPlexExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:57.2509786+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18.967819S" EditActiveTime="PT0.8545041S">
+      <ModifiedDate>2019-03-13T11:00:59.8065536+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\RunDiningPhilosophers.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:47.2357845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M22.6840957S" EditActiveTime="PT3M35.9653014S">
+      <ModifiedDate>2019-03-13T11:06:09.3663676+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:52:04.3716442+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT32.7896769S" EditActiveTime="PT1M21.5860677S">
-      <ModifiedDate>2019-01-28T14:36:52.5081644+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
+    <DevTrackerDataItem ViewActiveTime="PT0.7551026S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RunRegularTimerExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:43.5817057+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3892285S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\RunRegulate_TwoTimerGuardsExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:45.3478939+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.342666S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\RunSimpleBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:51.9822845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.2439747S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\RunTwoTimerGuardExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:08:17.5245718+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37.9780208S" EditActiveTime="PT1M22.4937306S">
+      <ModifiedDate>2019-03-13T11:07:04.6954059+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:35:04.9637606+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT26.0281168S" EditActiveTime="PT1M9.859341S">
-      <ModifiedDate>2019-01-28T14:43:26.8987241+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT31.2379256S" EditActiveTime="PT1M12.4583836S">
+      <ModifiedDate>2019-03-13T11:07:01.2774329+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:41:42.3902941+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT0.8372516S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-13T11:08:27.7725328+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.2439747S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\RunTwoTimerGuardExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:08:17.5245718+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.744562S" EditActiveTime="PT0.7832896S">
+      <ModifiedDate>2019-03-13T11:07:52.2121395+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:48.9885475+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.6612421S" EditActiveTime="PT2.5633525S">
+      <ModifiedDate>2019-03-13T11:07:58.4374759+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:47.7421083+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3892285S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\RunRegulate_TwoTimerGuardsExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:07:45.3478939+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.2098088S" EditActiveTime="PT2.5990426S">
+      <ModifiedDate>2019-03-13T11:07:01.2774329+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:54.2717589+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.1883439S" EditActiveTime="PT0.9076629S">
+      <ModifiedDate>2019-03-13T11:07:04.6954059+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:53.5428434+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8406073S" EditActiveTime="PT3.6145695S">
+      <ModifiedDate>2019-03-13T11:07:13.2076787+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:52.8581495+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24.7968765S" EditActiveTime="PT6.8693084S">
+      <ModifiedDate>2019-03-13T11:07:21.0775675+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:52.2911585+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.7551026S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RunRegularTimerExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:43.5817057+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.788148S" EditActiveTime="PT0.8162202S">
+      <ModifiedDate>2019-03-13T11:06:24.1728236+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:20.6066637+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.3868972S" EditActiveTime="PT2.7144499S">
+      <ModifiedDate>2019-03-13T11:06:27.6397885+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:19.8629718+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.2795835S" EditActiveTime="PT0.76366S">
+      <ModifiedDate>2019-03-13T11:06:47.3603606+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:06:18.7600992+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.2411452S" EditActiveTime="PT6.7432236S">
+      <ModifiedDate>2019-03-13T11:06:09.3663676+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:58.0583392+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.5932195S" EditActiveTime="PT3.825621S">
+      <ModifiedDate>2019-03-13T11:06:16.2505468+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:57.344897+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.342666S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\RunSimpleBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:05:51.9822845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.2234628S" EditActiveTime="PT0.6532531S">
+      <ModifiedDate>2019-03-13T11:05:00.0131183+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\RunAlternativeFairPlexExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:57.2509786+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.6458025S" EditActiveTime="PT4.8696491S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:32.7325125+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.7847413S" EditActiveTime="PT2.4747598S">
+      <ModifiedDate>2019-03-13T11:05:05.5118921+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:32.0388601+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.88838S" EditActiveTime="PT1.004991S">
+      <ModifiedDate>2019-03-13T11:05:10.7289814+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:04:31.4274948+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.9890879S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\RunAlternativeExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:35.613519+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0477699S" EditActiveTime="PT12.540665S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:14.0210941+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.654663S" EditActiveTime="PT0.8033775S">
+      <ModifiedDate>2019-03-13T11:03:39.3319978+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingOutputExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:13.1759331+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.4691034S" EditActiveTime="PT3.3816515S">
+      <ModifiedDate>2019-03-13T11:03:48.4843987+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:12.5154716+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.1972714S" EditActiveTime="PT24.4796007S">
+      <ModifiedDate>2019-03-13T11:04:24.6901467+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:11.8452882+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9064678S" EditActiveTime="PT1.1436893S">
+      <ModifiedDate>2019-03-13T11:03:09.4064246+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T11:03:06.7910614+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M9.3813485S" EditActiveTime="PT1.2986045S">
+      <ModifiedDate>2019-03-13T11:00:47.9835154+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Philosopher.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:48.0767138+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18.967819S" EditActiveTime="PT0.8545041S">
+      <ModifiedDate>2019-03-13T11:00:59.8065536+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\RunDiningPhilosophers.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:47.2357845+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.7255865S" EditActiveTime="PT11.9662847S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:59:20.5429162+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.6965957S" EditActiveTime="PT7.4454003S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:55.3999229+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.2310239S" EditActiveTime="PT0.7721347S">
+      <ModifiedDate>2019-03-13T11:00:57.2725138+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:54.473384+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25.7593036S" EditActiveTime="PT1.1796167S">
+      <ModifiedDate>2019-03-13T11:00:52.3242065+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:53.2637324+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.144525S" EditActiveTime="PT0.8037369S">
+      <ModifiedDate>2019-03-13T11:00:54.5630793+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:51.6799353+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9144431S" EditActiveTime="PT1.0054818S">
+      <ModifiedDate>2019-03-13T11:05:22.7211474+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:45.1394919+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.4929707S" EditActiveTime="PT3.2269918S">
+      <ModifiedDate>2019-03-13T11:05:28.0352149+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:44.8732037+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25.9653802S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <CreatedDate>2019-03-13T10:58:25.1285542+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.1032175S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-14T11:43:52.9026671+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.5188921S" EditActiveTime="PT36.3819557S">
+      <ModifiedDate>2019-02-14T11:43:31.499041+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Player.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-02-14T11:42:39.4660057+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.8946874S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <CreatedDate>2019-02-14T11:41:40.1852369+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.5661995S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <CreatedDate>2019-02-14T11:41:34.830655+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M17.9824383S" EditActiveTime="PT1M4.0775182S">
+      <ModifiedDate>2019-02-14T11:43:37.9848859+00:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <CreatedDate>2019-02-14T11:40:56.655709+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT4.4015621S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:38:39.2803715+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -461,9 +1361,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:37:40.311319+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -471,9 +1371,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Barriers\Barriers.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:37:09.7467838+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -482,9 +1382,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\BarrierExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\BarrierExample\BarrierExample.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:35:44.4226377+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -492,9 +1392,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-02-14T11:35:01.5287617+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -502,9 +1402,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T15:12:18.2887163+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -512,9 +1412,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierExampleProcess.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T13:18:44.0027563+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -522,9 +1422,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T12:31:13.6679973+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -532,9 +1432,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-30T12:23:56.1999837+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -543,9 +1443,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Regulator2Timers.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:56:31.0216634+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -554,9 +1454,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\TwoTimerGuard\TwoTimerGuard.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:49:19.2434949+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -564,9 +1464,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:48:05.2059919+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -574,9 +1474,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:47:50.5615352+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -584,9 +1484,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:47:47.5988922+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -605,9 +1505,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Variate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:41:42.3902941+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -616,9 +1516,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:38:13.8627732+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -627,9 +1527,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:37:48.3131316+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -638,9 +1538,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\SupportingProcess.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:35:04.9637606+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -649,9 +1549,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Regulate - Two Timer Guards Example\Regulate - Two Timer Guards Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:30:00.187388+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -659,9 +1559,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:27:43.3941784+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -669,9 +1569,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:27:37.6273082+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -679,9 +1579,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:26:50.9940558+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -689,9 +1589,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:26:46.4211867+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -700,9 +1600,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-28T14:25:34.1264642+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -721,9 +1621,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:33:13.1201009+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -732,9 +1632,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:32:50.4615173+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -742,9 +1642,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\AltingBarrierTesting\AltingBarrierTesting.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:31:01.2181856+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -752,9 +1652,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:30:36.5450976+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -762,9 +1662,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:30:12.8448726+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -772,9 +1672,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:25:51.3792436+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -782,9 +1682,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-25T12:25:47.4063433+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -803,9 +1703,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Phil.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:28.7444829+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -814,9 +1714,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\College.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\College.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:27.6652703+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -825,9 +1725,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Clock.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:26.4762086+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -836,9 +1736,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:24.1318425+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -847,9 +1747,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:19.8851843+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -858,9 +1758,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-23T13:24:09.4805109+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -868,9 +1768,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.java</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Chef.java</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:39:03.0921089+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -879,9 +1779,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:36:34.9464812+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -889,9 +1789,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Canteen Alternative With Preconditions Example\Canteen Alternative With Preconditions Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:33:52.4512089+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -900,9 +1800,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTimeTest.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTimeTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:19:14.0847186+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -911,9 +1811,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlexTime.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:14:20.7884363+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -922,9 +1822,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\FairPlex.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:12:51.81343+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -933,9 +1833,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative FairPlex\Alternative FairPlex.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:12:05.4096477+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -943,9 +1843,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:07:48.0750146+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -954,9 +1854,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingExample.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T13:04:33.3833539+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -965,9 +1865,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T11:51:42.5303913+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -976,9 +1876,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T11:51:30.6323354+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1006,9 +1906,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Regular.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T11:11:48.4673028+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1016,9 +1916,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\PollingTest.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\PollingTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:56:34.1207776+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1026,9 +1926,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:53:23.2510956+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1037,9 +1937,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:52:37.7319248+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1048,9 +1948,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\RunPolling.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:52:04.3716442+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1058,9 +1958,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Polling Alternative Skip Guard Example\Polling Alternative Skip Guard Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T10:51:36.6946604+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1068,9 +1968,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:57:16.0475492+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1078,9 +1978,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:57:15.8181955+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -1088,9 +1988,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\AltingBarrierGadget0Demo0.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPdocs-Examples\Alternative Example\Alternative Example.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:55:43.3187922+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>

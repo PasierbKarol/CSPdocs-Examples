@@ -20,9 +20,10 @@ namespace RegularTimerExample
             int i = 1;
             while (i > 0)
             {
-                i = (int)inChannel.read();
+                i = (int) inChannel.read();
                 Console.WriteLine("\nThe input was " + i);
             }
+
             Console.WriteLine("Finished!");
         }
     }

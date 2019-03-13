@@ -23,32 +23,29 @@ using CSPlang;
 
 namespace Alternative_FairPlex
 {
-
 /**
  * @author P.H. Welch
  */
-    public class FairPlex : IamCSProcess {
-
-    private readonly AltingChannelInput[] In;
-    private readonly ChannelOutput Out;
-
-    public FairPlex(AltingChannelInput[] In, ChannelOutput Out) {
-        this.In = In;
-        this.Out = Out;
-    }
-
-    public void run()
+    public class FairPlex : IamCSProcess
     {
+        private readonly AltingChannelInput[] In;
+        private readonly ChannelOutput Out;
 
-        Alternative alt = new Alternative(In);
-
-        while (true)
+        public FairPlex(AltingChannelInput[] In, ChannelOutput Out)
         {
-            int index = alt.fairSelect();
-                Out.write(In[index].read());
+            this.In = In;
+            this.Out = Out;
         }
 
-    }
+        public void run()
+        {
+            Alternative alt = new Alternative(In);
 
+            while (true)
+            {
+                int index = alt.fairSelect();
+                Out.write(In[index].read());
+            }
+        }
     }
 }

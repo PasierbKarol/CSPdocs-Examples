@@ -3,7 +3,7 @@ using CSPlang;
 
 namespace RegularTimerExample
 {
-    class Program
+    class RunRegularTimerExample
     {
         static void Main(string[] args)
         {
@@ -12,7 +12,7 @@ namespace RegularTimerExample
             Regular regular = new Regular(regularTimer.Out(), 1, 1000);
             Consumer consumer = new Consumer(regularTimer.In());
 
-            IamCSProcess[] network = { regular, consumer };
+            IamCSProcess[] network = {regular, consumer};
 
             new CSPParallel(network).run();
 

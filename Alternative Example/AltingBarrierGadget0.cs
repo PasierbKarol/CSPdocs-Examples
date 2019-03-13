@@ -23,67 +23,62 @@ using CSPlang;
 
 namespace Alternative_Example
 {
-
-    public class AltingBarrierGadget0 : IamCSProcess {
-
-    private readonly AltingChannelInput click;
-    private readonly AltingBarrier group;
-    private readonly ChannelOutput configure;
-
-    public AltingBarrierGadget0(
-        AltingChannelInput click, AltingBarrier group, ChannelOutput configure
-    )
+    public class AltingBarrierGadget0 : IamCSProcess
     {
-        this.click = click;
-        this.group = group;
-        this.configure = configure;
-    }
+        private readonly AltingChannelInput click;
+        private readonly AltingBarrier group;
+        private readonly ChannelOutput configure;
 
-    public void run()
-    {
-
-        /*final*/ Alternative clickGroup =
-            new Alternative(new Guard[] {click, group});
-
-        const int CLICK = 0, GROUP = 1;
-
-        int n = 0;
-        configure.write(n.ToString());
-
-        while (true)
+        public AltingBarrierGadget0(
+            AltingChannelInput click, AltingBarrier group, ChannelOutput configure
+        )
         {
-
-            configure.write(Color.Green); // pretty
-
-            while (!click.pending())
-            {
-                n++; // work on our own
-                configure.write(n.ToString()); // work on our own
-            }
-
-            click.read(); // must consume the click
-
-            configure.write(Color.Red); // pretty
-
-            Boolean group = true;
-            while (group)
-            {
-                switch (clickGroup.priSelect())
-                {
-                    case CLICK:
-                        click.read(); // must consume the click
-                        group = false; // end group working
-                        break;
-                    case GROUP:
-                        n--; // work with the group
-                        configure.write(n.ToString()); // work with the group
-                        break;
-                }
-            }
-
+            this.click = click;
+            this.group = group;
+            this.configure = configure;
         }
 
-    }
+        public void run()
+        {
+            /*final*/
+            Alternative clickGroup =
+                new Alternative(new Guard[] {click, group});
 
+            const int CLICK = 0, GROUP = 1;
+
+            int n = 0;
+            configure.write(n.ToString());
+
+            while (true)
+            {
+                configure.write(Color.Green); // pretty
+
+                while (!click.pending())
+                {
+                    n++; // work on our own
+                    configure.write(n.ToString()); // work on our own
+                }
+
+                click.read(); // must consume the click
+
+                configure.write(Color.Red); // pretty
+
+                Boolean group = true;
+                while (group)
+                {
+                    switch (clickGroup.priSelect())
+                    {
+                        case CLICK:
+                            click.read(); // must consume the click
+                            group = false; // end group working
+                            break;
+                        case GROUP:
+                            n--; // work with the group
+                            configure.write(n.ToString()); // work with the group
+                            break;
+                    }
+                }
+            }
+        }
     }
 }

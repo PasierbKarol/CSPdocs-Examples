@@ -3,7 +3,7 @@ using CSPlang;
 
 namespace Barriers
 {
-    class Program
+    class RunSimpleBarrierExample
     {
         static void Main(string[] args)
         {
