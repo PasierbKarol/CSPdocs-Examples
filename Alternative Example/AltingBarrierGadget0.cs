@@ -42,7 +42,7 @@ namespace Alternative_Example
         {
             /*final*/
             Alternative clickGroup =
-                new Alternative(new Guard[] {click, group});
+                new Alternative(new Guard[] { click, group });
 
             const int CLICK = 0, GROUP = 1;
 

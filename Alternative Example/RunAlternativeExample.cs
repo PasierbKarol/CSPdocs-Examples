@@ -1,6 +1,5 @@
 ﻿using System;
 using CSPlang;
-using CSPlang.Alting;
 using PlugAndPlay;
 
 namespace Alternative_Example
@@ -18,7 +17,7 @@ namespace Alternative_Example
             Numbers num2 = new Numbers(channel2.Out());
 
             //Alting input example
-            IamCSProcess[] altingInputExample = {num, num2, altingExample};
+            IamCSProcess[] altingInputExample = { num, num2, altingExample };
             new CSPParallel(altingInputExample).run();
 
 

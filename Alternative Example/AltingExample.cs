@@ -18,7 +18,6 @@
 //////////////////////////////////////////////////////////////////////
 
 using System;
-using System.Threading;
 using CSPlang;
 
 namespace Alternative_Example
@@ -36,7 +35,7 @@ namespace Alternative_Example
 
         public void run()
         {
-            Guard[] altChans = {in0, in1};
+            Guard[] altChans = { in0, in1 };
             Alternative alt = new Alternative(altChans);
 
             while (true)
@@ -50,7 +49,6 @@ namespace Alternative_Example
                         Console.WriteLine("in1 read " + in1.read());
                         break;
                 }
-
                 //Thread.Sleep(100);
             }
         }

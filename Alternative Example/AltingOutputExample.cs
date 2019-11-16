@@ -17,7 +17,6 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-
 using System;
 using CSPlang;
 using CSPlang.Alting;
@@ -38,7 +37,7 @@ namespace Alternative_Example
         public void run()
         {
             /*final*/
-            Guard[] altChans = {out0, out1};
+            Guard[] altChans = { out0, out1 };
             /*final*/
             Alternative alt = new Alternative(altChans);
 

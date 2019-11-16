@@ -1,5 +1,4 @@
-﻿using System;
-using CSPlang;
+﻿using CSPlang;
 
 namespace Barriers
 {

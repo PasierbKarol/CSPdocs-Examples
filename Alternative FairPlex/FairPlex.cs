@@ -23,9 +23,9 @@ using CSPlang;
 
 namespace Alternative_FairPlex
 {
-/**
- * @author P.H. Welch
- */
+    /**
+     * @author P.H. Welch
+     */
     public class FairPlex : IamCSProcess
     {
         private readonly AltingChannelInput[] In;

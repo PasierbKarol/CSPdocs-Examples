@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
-using CSPutil;
 
 namespace RegularTimerExample
 {
@@ -20,7 +17,7 @@ namespace RegularTimerExample
             int i = 1;
             while (i > 0)
             {
-                i = (int) inChannel.read();
+                i = (int)inChannel.read();
                 Console.WriteLine("\nThe input was " + i);
             }
 

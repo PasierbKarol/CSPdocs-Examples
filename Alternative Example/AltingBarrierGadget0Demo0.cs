@@ -29,13 +29,11 @@ namespace Alternative_Example
         {
             int nUnits = 8;
 
-            nUnits = (int) Console.Read(); //Ask.Int("\nnUnits = ", 3, 10);
+            nUnits = (int)Console.Read(); //Ask.Int("\nnUnits = ", 3, 10);
 
             // make the buttons
             One2OneChannel[] _event = Channel.one2oneArray(nUnits);
-
             One2OneChannel[] configure = Channel.one2oneArray(nUnits);
-
             Boolean horizontal = true;
 
             FramedButtonArray buttons =
@@ -45,7 +43,6 @@ namespace Alternative_Example
                 );
 
             // construct an array of front-ends to a single alting barrier
-
             AltingBarrier[] group = AltingBarrier.create(nUnits);
 
             // make the gadgets

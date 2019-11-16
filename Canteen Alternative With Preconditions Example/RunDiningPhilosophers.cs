@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using CSPlang;
+﻿using CSPlang;
 using CSPlang.Any2;
 
 namespace Canteen_Alternative_With_Preconditions_Example

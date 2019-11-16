@@ -1,5 +1,4 @@
-﻿using System;
-using CSPlang;
+﻿using CSPlang;
 using PlugAndPlay;
 
 namespace Regulate___Two_Timer_Guards_Example

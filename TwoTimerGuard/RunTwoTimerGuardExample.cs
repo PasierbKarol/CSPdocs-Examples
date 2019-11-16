@@ -1,10 +1,6 @@
-﻿using System;
-using CSPlang;
+﻿using CSPlang;
 using PlugAndPlay;
 
-/* Author: Karol Pasierb
- *
- */
 namespace TwoTimerGuard
 {
     class RunTwoTimerGuardExample

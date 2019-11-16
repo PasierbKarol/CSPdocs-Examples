@@ -19,10 +19,7 @@
 //////////////////////////////////////////////////////////////////////
 
 using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
-
 
 /**
  * @author P.H. Welch
@@ -47,7 +44,7 @@ namespace Regulate___Two_Timer_Guards_Example
         {
             CSTimer tim = new CSTimer();
 
-            Guard[] guards = {reset, tim, In}; // prioritised order
+            Guard[] guards = { reset, tim, In }; // prioritised order
             const int RESET = 0; // index into guards
             const int TIM = 1; // index into guards
             const int IN = 2; // index into guards
@@ -66,12 +63,12 @@ namespace Regulate___Two_Timer_Guards_Example
                 switch (alt.priSelect())
                 {
                     case RESET:
-                        interval = (long) reset.read();
+                        interval = (long)reset.read();
                         timeout = tim.read();
                         break;
                     // fall through
                     case TIM:
-                        interval = (long) reset.read();
+                        interval = (long)reset.read();
                         timeout = tim.read();
                         Out.write(x);
                         timeout += interval;

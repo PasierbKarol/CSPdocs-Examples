@@ -39,12 +39,12 @@ namespace Canteen_Alternative_With_Preconditions_Example
 
         public void run()
         {
-            Alternative alt = new Alternative(new Guard[] {supply, service});
-            Boolean[] precondition = {true, false};
+            Alternative alt = new Alternative(new Guard[] { supply, service });
+            Boolean[] precondition = { true, false };
             const int SUPPLY = 0;
             const int SERVICE = 1;
 
-            CSTimer tim = new CSTimer();
+            CSTimer timer = new CSTimer();
 
             int nChickens = 0;
 
@@ -55,9 +55,9 @@ namespace Canteen_Alternative_With_Preconditions_Example
                 switch (alt.fairSelect(precondition))
                 {
                     case SUPPLY:
-                        int value = (int) supply.read(); // new batch of chickens from the Chef
+                        int value = (int)supply.read(); // new batch of chickens from the Chef
                         Console.WriteLine("            Canteen : ouch ... make room ... this dish is very hot ... ");
-                        tim.after(tim.read() + 3000); // this takes 3 seconds to put down
+                        timer.after(timer.read() + 3000); // this takes 3 seconds to put down
                         nChickens += value;
                         Console.WriteLine("            Canteen : more chickens ... " +
                                           nChickens + " now available ... ");

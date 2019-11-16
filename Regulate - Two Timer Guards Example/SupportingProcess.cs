@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
 
 namespace Regulate___Two_Timer_Guards_Example

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using CSPlang;
+﻿using CSPlang;
 
 namespace TwoTimerGuard
 {
@@ -21,7 +18,7 @@ namespace TwoTimerGuard
             CSTimer tim = new CSTimer();
             CSTimer reset = new CSTimer();
 
-            Guard[] guards = {reset, tim, In as Guard}; // prioritised order
+            Guard[] guards = { reset, tim, In as Guard }; // prioritised order
             const int RESET = 0; // index into guards
             const int TIM = 1; // index into guards
             const int IN = 2; // index into guards
@@ -52,7 +49,7 @@ namespace TwoTimerGuard
                         tim.setAlarm(timeout);
                         break;
                     case IN:
-                        x = (int) In.read();
+                        x = (int)In.read();
                         Out.write(x);
                         break;
                 }

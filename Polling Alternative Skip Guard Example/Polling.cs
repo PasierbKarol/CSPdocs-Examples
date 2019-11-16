@@ -18,7 +18,6 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-using System;
 using System.Diagnostics;
 using System.Threading;
 using CSPlang;
@@ -37,9 +36,13 @@ namespace Polling_Alternative_Skip_Guard_Example
         private readonly AltingChannelInput In4;
         private readonly ChannelOutput Out;
 
-        public Polling(AltingChannelInput in0, AltingChannelInput in1,
-            AltingChannelInput in2, AltingChannelInput in3,
-            AltingChannelInput in4, ChannelOutput Out)
+        public Polling(
+            AltingChannelInput in0, 
+            AltingChannelInput in1,
+            AltingChannelInput in2, 
+            AltingChannelInput in3,
+            AltingChannelInput in4, 
+            ChannelOutput Out)
         {
             this.In0 = in0;
             this.In1 = in1;
@@ -52,7 +55,7 @@ namespace Polling_Alternative_Skip_Guard_Example
         public void run()
         {
             Skip skip = new Skip();
-            Guard[] guards = {In0, In1, In2, In3, In4, skip};
+            Guard[] guards = { In0, In1, In2, In3, In4, skip };
             Alternative alt = new Alternative(guards);
 
             while (true)

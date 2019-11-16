@@ -18,11 +18,7 @@
 //                                                                  //
 //////////////////////////////////////////////////////////////////////
 
-using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
-
 
 /**
  * @author P.H. Welch
@@ -58,7 +54,7 @@ namespace Regulate___Two_Timer_Guards_Example
                     for (int i = 0; i < innerCycles; i++)
                     {
                         Out.write(interval);
-                        timeout += (long) interval;
+                        timeout += (long)interval;
                         tim.after(timeout);
                     }
 

@@ -18,15 +18,12 @@
 //////////////////////////////////////////////////////////////////////
 
 using System;
-using System.Drawing;
 using CSPlang;
 
 namespace AltingBarrierTesting
 {
-
     public class AltingBarrierExampleProcess : IamCSProcess
     {
-
         private readonly AltingChannelInput click;
         private readonly AltingBarrier group;
         private readonly ChannelOutput configure;
@@ -51,9 +48,7 @@ namespace AltingBarrierTesting
 
             while (true)
             {
-
                 configure.write("Color.Green"); // pretty
-
                 while (!click.pending())
                 {
                     n++; // work on our own
@@ -61,9 +56,7 @@ namespace AltingBarrierTesting
                 }
 
                 click.read(); // must consume the click
-
                 configure.write("Color.Red"); // pretty
-
                 Boolean group = true;
                 while (group)
                 {
@@ -79,10 +72,7 @@ namespace AltingBarrierTesting
                             break;
                     }
                 }
-
             }
-
         }
-
     }
 }

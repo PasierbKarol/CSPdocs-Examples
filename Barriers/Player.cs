@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
 
 namespace Barriers
@@ -19,12 +17,12 @@ namespace Barriers
 
         public void run()
         {
-            CSTimer tim = new CSTimer();
+            CSTimer timer = new CSTimer();
             long second = 1000; // JCSP timer units are milliseconds
             int busy = id + 1;
             while (true)
             {
-                tim.sleep(busy * second); // application specific work
+                timer.sleep(busy * second); // application specific work
                 Console.WriteLine("Player " + id + " at the barrier ...");
                 barrier.sync();
                 Console.WriteLine("\t\t\t... Player " + id + " over the barrier");

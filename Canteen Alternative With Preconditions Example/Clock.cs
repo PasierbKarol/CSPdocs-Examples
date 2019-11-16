@@ -29,13 +29,13 @@ namespace Canteen_Alternative_With_Preconditions_Example
     {
         public void run()
         {
-            CSTimer tim = new CSTimer();
+            CSTimer timer = new CSTimer();
             int tick = 0;
 
             while (true)
             {
                 Console.WriteLine("[TICK] " + tick);
-                tim.sleep(1000);
+                timer.sleep(1000);
                 tick++;
             }
         }

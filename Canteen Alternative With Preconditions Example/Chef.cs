@@ -43,7 +43,7 @@ namespace Canteen_Alternative_With_Preconditions_Example
 
         public void run()
         {
-            CSTimer tim = new CSTimer();
+            CSTimer timer = new CSTimer();
 
             int n_chickens;
 
@@ -52,7 +52,7 @@ namespace Canteen_Alternative_With_Preconditions_Example
             {
                 // cook 4 chickens
                 Console.WriteLine("            Chef    : cooking ... ");
-                tim.after(tim.read() + 2000); // this takes 3 seconds to cook
+                timer.after(timer.read() + 2000); // this takes 3 seconds to cook
                 n_chickens = 4;
                 Console.WriteLine("            Chef    : " + n_chickens + " chickens, ready-to-go ... ");
                 supply.write(n_chickens); // supply the chickens
